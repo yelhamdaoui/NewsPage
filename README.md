@@ -1,0 +1,2 @@
+# NewsPage
+for test
